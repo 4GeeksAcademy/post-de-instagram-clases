@@ -1,0 +1,49 @@
+.post {
+    width: 500px;
+    margin: auto;
+    border: 1px solid black;
+    
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    }
+.header-left, .header-right {
+    display: flex;
+    align-items: center;
+}
+i {
+    font-size: xx-large;
+    display: flex;
+}
+img {
+    width: 500px;
+}
+.HTML {
+    font-size: 20px;
+    margin-left: 10px;
+    }
+
+.post-footer p {
+    width: 480px;
+    display: flex;
+    font-size: 10px;
+    
+}
+.header-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}   
+.icon-footer {
+    display: flex;
+    justify-content: space-between;
+}
+p {
+text-align: justify;
+margin-left: 5px;
+margin-right: 5px;
+}
+.icon-header {
+    margin-top: 20px;
+}
